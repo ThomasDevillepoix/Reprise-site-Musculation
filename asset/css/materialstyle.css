@@ -15,8 +15,9 @@ body {
 }
 .imgModal{
     height: 400px;
-    width: 100%;
+    width: 80%;
     margin-bottom: 30px;
+    margin-left: 70px;
 }
 .global {
     background-image: url(../images/muscu3.jpg);
