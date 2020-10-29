@@ -1,5 +1,41 @@
-.imgcontact{
-    width: 350px;
-    height: 150px;
 
+.imgCard{
+    width:320px;
+    height:250px;
+    margin-left:6px;
 }
+.socio{
+    font-size: 6em;
+}
+.mapG{
+    width:600px;
+    height: 350px;
+}
+.imgcontact{
+    width:50%;
+}
+.card{
+    border: 5px solid white;
+    border-radius: 50px;
+}
+.global {
+    max-width: 100vw;
+    max-height: auto;
+    background-image: url(../images/muscu3.jpg);
+    background-repeat: ;
+    background-size: cover;
+    
+}
+.parallax {
+    /* The image used */
+    background-image: url(../images/muscu3.jpg);
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
