@@ -15,7 +15,11 @@ body {
 }
 .imgModal{
     height: 400px;
+<<<<<<< HEAD
     width: 80%;
+=======
+    width: 100%;
+>>>>>>> 017373fc8d502148f6af96487612893639e2004f
     margin-bottom: 30px;
     margin-left: 70px;
 }
