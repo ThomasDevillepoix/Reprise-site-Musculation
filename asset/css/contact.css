@@ -30,8 +30,8 @@
     /* The image used */
     background-image: url(../images/muscu3.jpg);
   
-    /* Full height */
-    height: 100%; 
+    /* Full height
+    height: 100%;  */
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
