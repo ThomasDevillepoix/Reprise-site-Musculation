@@ -1,8 +1,6 @@
 html,body {
     max-width: 100vw;
     overflow-x: hidden;
-    
-
 }
 .footer {
     background-color:black;
@@ -166,10 +164,6 @@ li {
 .sub{
     margin-left:270px;
 }
-
-
-
-
 .or{
 margin-left:70px
 }
