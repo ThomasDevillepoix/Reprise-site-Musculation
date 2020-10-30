@@ -21,4 +21,21 @@
         height: 300px;
         width: 90%;
     }
+    .twitter{
+        width:75px ;
+        height:75px ;
+        background-color:#1C9CEA;
+        margin-left: 65px;
+        
+    }
+    .insta{
+        width:75px ;
+        height:75px ;
+        margin-left: 25px;
+    }
+    .fb{
+        widows: 75px;px ;
+        height:75px ;
+        margin-left: 25px;
+    }
 }

@@ -27,7 +27,7 @@
     border-radius: 50px;
 }
 .imgCard{
-    width:320px;
+    width:auto;
     height:250px;
     margin-left:15px;
 }
@@ -42,4 +42,15 @@
     width:600px;
     height: 350px;
 }
-
+@media screen and (max-width: 480px)
+{
+    .mapG{
+        width:400px;
+        height: 250px;
+    } 
+    .imgCard{
+        width: 382px;
+        height:250px;
+        
+    }
+}

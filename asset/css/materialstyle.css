@@ -3,9 +3,17 @@ body {
     overflow-x: hidden;
     height: auto;
 }
+.parallax {
+    background-image: url(../images/muscu3.jpg);
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 .slider{
     margin-bottom: 100px;
-    /* margin-top: 100px; */
+    margin-top: 100px;
 }
 
 .imgSlider{
@@ -15,8 +23,10 @@ body {
 .modal{
     width: 70%;
     margin: auto;
+    margin-bottom: 100px;
     border-radius: 40px;
     background-color:rgba(0, 0, 0, 0.5)
+    
 }
 .textModal{
     padding: 20px;
@@ -93,29 +103,7 @@ li {
     background-image: url(../images/Avangard_GYM.png);
     background-size: content;
 }
-/**** IMAGES ACTUALIÉ ****/
 
-.filles {
-    margin-top: 50px;
-    border-radius: 50px;
-    height: 451px;
-}
-.or {
-    border-radius: 50px;
-}
-/**** CSS CARD ****/
-.card-or {
-    opacity: 1;
-    margin-top: 120px;
-    height: 225px;
-    border: 2px solid rgb(254, 81, 153);
-}
-.card-coach {
-    opacity: 1;
-    margin-top: 160px;
-    height: 225px;
-    border: 2px solid black
-}
 .sub {
     margin-left: 170px;
 }
