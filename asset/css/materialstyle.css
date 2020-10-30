@@ -14,7 +14,7 @@ body {
 }
 .modal{
     width: 70%;
-    justify-content: center;
+    margin: auto;
 }
 .textModal{
     padding: 20px;
@@ -22,7 +22,6 @@ body {
 }
 .imgModal{
     height: 400px;
-<<<<<<< HEAD
     width: 65%;
     margin-bottom: 30px;
     margin: auto;
@@ -32,11 +31,6 @@ body {
     height: 200px;
     width: 200px;
     margin: 20px;
-=======
-    width: 80%;
-    margin-bottom: 30px;
-    margin-left: 75px;
->>>>>>> 92bc019c38d2c509ceac1c55a9d586ee5f0d9bf1
 }
 .global {
     background-image: url(../images/muscu3.jpg);
@@ -44,46 +38,18 @@ body {
     background-size: cover;
     opacity: 1;
 }
-<<<<<<< HEAD
-
-.title {
-    margin-top: 10%;
-    height: 20%;
-    justify-content: space-around;
-    width: 100%;
-}
-=======
-.parallax {
-    /* The image used */
-    background-image: url(../images/muscu3.jpg);
-  
-    /* Full height */
-    height: 100%; 
-  
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
->>>>>>> 92bc019c38d2c509ceac1c55a9d586ee5f0d9bf1
-
 #map {
     justify-content: center;
     align-items: center;
 }
-
 #adress {
     color: white;
     text-align: center;
-  
 }
-
 .header {
     background-image: url(../images/levage5.jpg);
     background-size: content;
     height: 450px;
-    
     justify-content: center;
     align-items: center;
     font-size: 20px;
@@ -101,27 +67,21 @@ nav {
     padding-left: 1px;
     width: 100%;
     height: 4%;
-    
     margin: 5px;
     color: #D1C9C9;
 }
-
 ul {
     list-style-type: none;
-    
     font-size: 30px;
 }
-
 a {
     text-decoration: none;
     color: #D1C9C9;
 }
-
 li {
     border-right: solid #D1C9C9 1px;
     padding-right: 210px;
     padding-left: 0px;
-    
     justify-content: space-around;
 }
 
@@ -129,7 +89,6 @@ li {
     display: flex;
     height: auto;
     background-image: url(../images/Avangard_GYM.png);
-    
     background-size: content;
 }
 /**** IMAGES ACTUALIÉ ****/
